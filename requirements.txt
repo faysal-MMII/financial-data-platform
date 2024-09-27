@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+matplotlib
+alpaca-trade-api
+pytz
+ttkbootstrap
