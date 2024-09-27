@@ -1,6 +1,6 @@
 # Financial Data Platform
 
-This project is a trading application that integrates with Alpaca for live trading and provides backtesting capabilities.
+This project is a trading application that integrates with Alpaca and Schwab for live trading, and yahoo finance for downloading historical data. The project also provides backtesting capabilities. THere is no need to install Complex database systems like Cassandra and Postgress, SQLite is perfect enough, simply ensure you have it installed in your library. Placeholders are in place of the alpaca keys in the `SQLite_Trial.py` file , simply replace them with yours.
 
 ## Setup
 
@@ -15,11 +15,3 @@ This project is a trading application that integrates with Alpaca for live tradi
 - Backtesting capabilities
 - Multiple trading strategies
 - User-friendly GUI
-
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
