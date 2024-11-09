@@ -1,6 +1,6 @@
 # Financial Data Platform
 
-This project is a trading application that integrates with Alpaca and Charles Schwab for live trading, and Yahoo Finance for downloading historical data. The project also provides backtesting capabilities. There is no need to install complex database systems like Cassandra and PostgreSQL; SQLite is sufficient, simply ensure you have it installed in your library. Placeholders are in place of the Alpaca keys in the `SQLite_Trial.py` file; simply replace them with yours.
+This project is a trading application that integrates with Alpaca for live trading, and Yahoo Finance for downloading historical data. The project also provides backtesting capabilities. There is no need to install complex database systems like Cassandra and PostgreSQL; SQLite is sufficient, simply ensure you have it installed in your library. Placeholders are in place of the Alpaca keys in the `SQLite_Trial.py` file; simply replace them with yours.
 
 ## Setup
 
